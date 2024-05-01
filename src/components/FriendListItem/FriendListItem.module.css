@@ -1,0 +1,14 @@
+.isOn {
+    color: green;
+}
+
+.isOff {
+    color: red;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

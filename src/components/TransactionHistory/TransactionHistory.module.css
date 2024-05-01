@@ -1,0 +1,27 @@
+.table {
+    margin: 32px auto 0px auto;
+    border-collapse: collapse;
+    width: 600px;
+}
+
+.content {
+    border: 2px solid #000;
+    padding: 8px;
+    text-align: center;
+}
+
+.info {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.header {
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+    background-color: #484747;
+}
+
+.line:nth-child(even) {
+    background-color: #a6a6a6;
+}
